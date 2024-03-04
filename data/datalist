@@ -5,21 +5,23 @@ CHF_GBP
 CHF_USD
 CNY_GBP
 CNY_USD
+crypto
 CSI
 DAX
-DJ
 DJ_const
+DJ
 DNB
-EURSTOXX
-EURSTX_const
 EUR_GBP
 EUR_USD
-FTSE
+EURSTOXX
+EURSTX_const
+fire
 FTSE_const
+FTSE
 GBP_USD
 GOLD
-HSI
 HSI_const
+HSI
 JPY_GBP
 JPY_USD
 NASDAQ
@@ -27,13 +29,11 @@ NIKKEI
 OIL_Brent
 RSHCQ
 SMI
-SP500
-SP500_const: SP500_const SP500_const_info
 SP_defaults
+SP500_const: SP500_const SP500_const_info
+SP500
 SSEC
 USD_GBP
 VIX
 ZCB_CAD
 ZCB_USD
-crypto
-fire
