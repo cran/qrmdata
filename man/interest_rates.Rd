@@ -13,16 +13,16 @@ data("ZCB_USD")
 \format{
   \describe{
     \item{\code{ZCB_CAD}:}{
-      \code{\link{xts}} object containing, in each row, zero-coupon bond yield curves
-      in percent for 120 times to maturity (ranging from 0.25 to 30 years); only
-      trading days from 1991-01-02 to 2015-08-31 with available values
-      for all maturities are included.
+      \code{\link[xts]{xts}} object containing, in each row, zero-coupon
+      bond yield curves in percent for 120 times to maturity (ranging
+      from 0.25 to 30 years); only trading days from 1991-01-02 to
+      2015-08-31 with available values for all maturities are included.
     }
     \item{\code{ZCB_USD}:}{
-      \code{\link{xts}} object containing, in each row, zero-coupon bond yield curves
-      in percent for 30 times to maturity (ranging from 1 to 30 years); only
-      trading days from 1985-11-25 to 2015-12-29 with available values
-      for all maturities are included.
+      \code{\link[xts]{xts}} object containing, in each row, zero-coupon
+      bond yield curves in percent for 30 times to maturity (ranging
+      from 1 to 30 years); only trading days from 1985-11-25 to
+      2015-12-29 with available values for all maturities are included.
     }
   }
 }

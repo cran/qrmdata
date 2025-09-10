@@ -18,7 +18,7 @@ data("EURSTX_const")
 data("HSI_const")
 }
 \format{
-  \code{\link{xts}} objects containing adjusted close prices of the
+  \code{\link[xts]{xts}} objects containing adjusted close prices of the
   constituents of the respective stock indices. These are
   the S&P 500 constituents (\code{SP500_const} with corresponding
   Global Industry Classification Standard (GICS) information

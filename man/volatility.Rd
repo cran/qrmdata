@@ -9,7 +9,7 @@
 data("VIX")
 }
 \format{
-  An \code{\link{xts}} object containing the volatility index
+  An \code{\link[xts]{xts}} object containing the volatility index
   (\code{VIX}; ticker symbol ``^VIX'') from its first date of availablility
   to 2015-12-31.
 }

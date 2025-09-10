@@ -9,7 +9,7 @@
 data("RSHCQ")
 }
 \format{
-  An \code{\link{xts}} object containing adjusted close prices of
+  An \code{\link[xts]{xts}} object containing adjusted close prices of
   Radioshack (\code{RSHCQ}; ticker symbol ``RSHCQ'') from 1982-01-04 to 2015-01-20.
 }
 \source{

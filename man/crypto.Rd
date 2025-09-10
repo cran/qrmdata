@@ -10,7 +10,7 @@
 data("crypto")
 }
 \format{
-  \code{\link{xts}} object containing cryptocurrency prices in USD
+  \code{\link[xts]{xts}} object containing cryptocurrency prices in USD
   of Bitcoin (ticker symbol ``BTC-USD''), Ethereum (ticker symbol
   ``ETH-USD''), Litecoin (ticker symbol ``LTC-USD'') and Ripple (ticker
   symbol ``XRP-USD'') from their first available date onwards.

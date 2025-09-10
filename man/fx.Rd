@@ -31,7 +31,7 @@ data("JPY_GBP")
 data("CNY_GBP")
 }
 \format{
-  \code{\link{xts}} objects containing foreign exchange rates of
+  \code{\link[xts]{xts}} objects containing foreign exchange rates of
   Canadian Dollar (\code{CAD_*}), US Dollar (\code{USD_*}),
   British Pound (\code{GBP_*}), Euro (\code{EUR_*}), Swiss Francs
   (\code{CHF_*}), Japanese Yen (\code{JPY_*}), Chinese Yuan (\code{CNY_*})

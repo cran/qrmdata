@@ -31,7 +31,7 @@ data("SSEC")
 data("NIKKEI")
 }
 \format{
-  \code{\link{xts}} objects containing adjusted close prices of the
+  \code{\link[xts]{xts}} objects containing adjusted close prices of the
   S&P 500 (\code{SP500}; ticker symbol ``^GSPC''),
   Dow Jones (\code{DJ}; ticker symbol ``^DJI''),
   NASDAQ 100 (\code{NASDAQ}; ticker symbol ``^NDX''),

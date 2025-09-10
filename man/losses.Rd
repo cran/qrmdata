@@ -13,7 +13,7 @@ data("DNB")
 }
 \format{
   \describe{
-    \item{\code{fire}:}{univariate \code{\link{xts}} object with 2167
+    \item{\code{fire}:}{univariate \code{\link[xts]{xts}} object with 2167
       observations.}
     \item{\code{DNB}:}{(25000, 3)-\code{\link{matrix}} containing the
       largest 1\% of simulated (market risk, credit risk, asset risk)

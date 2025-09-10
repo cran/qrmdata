@@ -11,7 +11,7 @@ data("OIL_Brent")
 data("GOLD")
 }
 \format{
-  \code{\link{xts}} objects containing the Brent Crude price in USD per
+  \code{\link[xts]{xts}} objects containing the Brent Crude price in USD per
   barrel (for \code{OIL_Brent}) and the World Gold Council gold price in USD
   per troy ounce (for \code{GOLD}).
 }
